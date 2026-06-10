@@ -1,0 +1,5 @@
+# requirements.txt — Luxury Travel Consultant AI
+# Install with:
+#   pip install -r requirements.txt
+
+anthropic>=0.30.0        # Claude API SDK (supports streaming + latest models)
