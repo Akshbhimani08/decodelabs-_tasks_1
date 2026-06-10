@@ -1,4 +1,4 @@
-# Lumière Voyages — Luxury Travel Consultant AI
+# Luxury Travel Consultant AI
 ### Task 1 · The System Prompt Architect
 
 A production-grade AI persona powered by **Claude (Anthropic)** that acts as
